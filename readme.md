@@ -1,4 +1,3 @@
-
 ---
 title: "Temperatur- und Luft­feuchtigkeits&amp;shy;sensor"
 date: "2018-08-28T23:39:41.000Z"

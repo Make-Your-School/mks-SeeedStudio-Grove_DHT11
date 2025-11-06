@@ -21,7 +21,7 @@ difficulty: 'recommend'
 ---
 
 
-# Temperatur- und Luft­feuchtigkeits&amp;shy;sensor
+# Temperatur- und Luft­feuchtigkeitssensor
 
 ![Temperatur- und Luft­feuchtigkeits&amp;shy;sensor](./5_temperatur-und-luftfeuchtigkeitssensor.png)
 
